@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Functional Genomics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ]
+  ],
+  "legacy_uid": "61a2abbb-51b7-9ebc-4d09-5c109e9385e0",
+  "instructors": {
+    "content": [
+      "88fdc2ec-3715-22b0-3dbf-0d39150edd88"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c062ca98-c3e5-1d5e-acb3-5ac7a8b437e4",
+    "website": "7-342-the-x-in-sex-a-genetic-medical-and-evolutionary-view-of-the-x-chromosome-fall-2009"
+  },
+  "course_title": "The X in Sex: A Genetic, Medical, and Evolutionary View of the X Chromosome",
+  "hide_download": true,
+  "course_description": "This course will explore a diverse collection of striking biological phenomena associated with the X chromosome. We will examine the genetic basis and significance of several X-linked mutations. We will also discuss why men are more likely than women to display X-linked traits. We will look at the different mechanisms by which X chromosome gene expression is equalized in mammals, flies, and worms and how these mechanisms can yield unusual phenotypes. Throughout our discussions of the X chromosome we will use both recent and classic primary research papers to learn about this chromosome's fascinating biology.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "course_image_thumbnail": {
+    "content": "8c03aea6-ad9d-17d5-42a5-55841969dc38",
+    "website": "7-342-the-x-in-sex-a-genetic-medical-and-evolutionary-view-of-the-x-chromosome-fall-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "5393e666-3f44-4ab8-955f-28fe367d7b0c",
+  "site_short_id": "7.342-fall-2009",
+  "site_url_path": "courses/7-342-the-x-in-sex-a-genetic-medical-and-evolutionary-view-of-the-x-chromosome-fall-2009",
+  "title": "Course Metadata"
+}
